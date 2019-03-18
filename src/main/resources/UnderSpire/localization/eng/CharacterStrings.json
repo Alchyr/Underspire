@@ -1,0 +1,48 @@
+{
+  "_____:_____": {
+    "NAMES": [
+      " ",
+      " "
+    ],
+    "TEXT": [
+      "",
+      "Is this heart... crying?",
+      "Are those vampires? You didn't know those existed. Also, you shouldn't be reading this, so something has gone wrong."
+    ]
+  },
+  "Alt Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Who are...~ ~you..?",
+      "~Again..~",
+      "~Do~ ~you...~ NL ~die...?~",
+      "~Another~ NL ~try...?~",
+      "~You~ ~are...~ ~too~ ~weak...~ NL ~for~ ~this~ ~place...~",
+      "~You~ ~did~ ~not...~ NL ~get~ ~very~ ~far...~",
+      "~I~ ~did~ ~not~ ~bring...~ ~you~ ~here...~",
+      "~Hello...~",
+      "~Begone...~",
+      "~No~ ~place...~ NL ~..for~ ~you....~",
+      "~Time~ ~for~ ~a~ NL ~CHALLENGE...~",
+      "Gifts",
+      "~You're~ ~still~ ~here...?~",
+      "~What~ ~is~ ~your~ ~goal...~",
+      "~Pointless...~",
+      "Cursed!",
+      "Scatterbrain!",
+      "Transformation!",
+      "~You~ ~are...~ NL ~Strange...~"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Say hello]",
+      "[Skip]",
+      "[Leave]",
+      "Choose 10 cards to add to your deck.",
+      "[Where is this]",
+      "[Flirt]"
+    ]
+  }
+}

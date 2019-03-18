@@ -1,0 +1,117 @@
+{
+  "UnderSpire:Stick": {
+    "NAME": "Stick",
+    "DESCRIPTION": "* Its bark is worse than its bite.",
+    "EXTENDED_DESCRIPTION": [
+      "You threw the stick away.\nThen picked it back up."
+    ]
+  },
+  "UnderSpire:Bandage": {
+    "NAME": "Bandage",
+    "DESCRIPTION": "* It has already been used many times.",
+    "EXTENDED_DESCRIPTION": [
+      "You re-applied the bandage. Still kind of gooey."
+    ]
+  },
+  "UnderSpire:ToyKnife": {
+    "NAME": "Toy Knife",
+    "DESCRIPTION": "* !D! AT\n* Made of plastic. Appears to have seen some use. "
+  },
+  "UnderSpire:BalletShoes": {
+    "NAME": "Ballet Shoes",
+    "DESCRIPTION": "* !D! AT\n* These used shoes make you feel incredibly dangerous."
+  },
+  "UnderSpire:FadedRibbon": {
+    "NAME": "Faded Ribbon",
+    "DESCRIPTION": "* !B! DF\n* If you're cuter, monsters won't hit you as hard."
+  },
+  "UnderSpire:ManlyBandanna": {
+    "NAME": "Manly Bandanna",
+    "DESCRIPTION": "* !B! DF\n* It has seen some wear. It has abs drawn on it."
+  },
+  "UnderSpire:OldTutu": {
+    "NAME": "Old Tutu",
+    "DESCRIPTION": "* !B! DF\n* Finally, a protective piece of armor."
+  },
+  "UnderSpire:Locket": {
+    "NAME": "Heart Locket",
+    "DESCRIPTION": "!B! DF\nIt says \"Best Friends Forever.\"",
+    "EXTENDED_DESCRIPTION": [
+      "The Locket",
+      "!B! DF\nYou can feel it beating."
+    ]
+  },
+  "UnderSpire:MonsterCandy": {
+    "NAME": "Monster Candy",
+    "DESCRIPTION": "* Has a distinct, non-licorice flavor.",
+    "EXTENDED_DESCRIPTION": [
+      "You ate the Monster Candy. Very un-licorice-like."
+    ]
+  },
+  "UnderSpire:Garbage1": {
+    "NAME": "Garbage",
+    "DESCRIPTION": "* It probably tastes as good as it looks.",
+    "EXTENDED_DESCRIPTION": [
+      "It tastes like garbage. What did you expect?"
+    ]
+  },
+  "UnderSpire:Garbage2": {
+    "NAME": "Trash",
+    "DESCRIPTION": "* You know some people who would probably collect this.",
+    "EXTENDED_DESCRIPTION": [
+      "Is this even edible? Might as well try."
+    ]
+  },
+  "UnderSpire:Garbage3": {
+    "NAME": "Rock Candy",
+    "DESCRIPTION": "* Here is a recipe to make this at home: NL 1. Find a rock",
+    "EXTENDED_DESCRIPTION": [
+      "You taste your teeth breaking. It's surprisingly sweet."
+    ]
+  },
+  "UnderSpire:TemmieFlake": {
+    "NAME": "Temmie Flakes",
+    "DESCRIPTION": "* It's just torn up pieces of construction paper.",
+    "EXTENDED_DESCRIPTION": [
+      "FOOB!!!"
+    ]
+  },
+  "UnderSpire:PopatoChisps": {
+    "NAME": "Popato Chisps",
+    "DESCRIPTION": "* Regular old popato chisps.",
+    "EXTENDED_DESCRIPTION": [
+      "Perfectly salty."
+    ]
+  },
+  "UnderSpire:PumpkinRings": {
+    "NAME": "Pumpkin Rings",
+    "DESCRIPTION": "* A small pumpkin cooked like onion rings.",
+    "EXTENDED_DESCRIPTION": [
+      "You ring the pumpkin. Nobody seems to be home."
+    ]
+  },
+  "UnderSpire:DarkCandy": {
+    "NAME": "Dark Candy",
+    "DESCRIPTION": "* Seems even more out of place than everything else.\n* Tastes like marshmallows.",
+    "EXTENDED_DESCRIPTION": [
+      "It tastes like your teeth are rotting. You feel hyper."
+    ]
+  },
+  "UnderSpire:HushPuppy": {
+    "NAME": "Hush Puppy",
+    "DESCRIPTION": "* This wonderful spell will stop a dog from casting magic.",
+    "EXTENDED_DESCRIPTION": [
+      "Good night,",
+      "Sleep tight,",
+      "Don't feed the dogs at night."
+    ]
+  },
+  "UnderSpire:LegendaryHero": {
+    "NAME": "Legendary Hero",
+    "DESCRIPTION": "* Sandwich shaped like a sword. Increases ATTACK for the combat when eaten.",
+    "EXTENDED_DESCRIPTION": [
+      "You are filled with...",
+      "HEROICISM"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "MERCY": {
+    "FULL_TEXT": [
+      "* Spare",
+      "* Flee"
+    ],
+    "RATE": 0,
+    "MENU_FONT": true
+  },
+  "DEATH": {
+    "FULL_TEXT": [
+      "Y o u  c a n n o t  g i v e  u p  \nj u s t  y e t !",
+      "!NAME!! \nS t a y  d e t e r m i n e d . . ."
+    ],
+    "RATE": 0.08,
+    "SOUND_KEY": "ASGORE"
+  },
+  "nobody": {
+    "FULL_TEXT": [
+      "But nobody came."
+    ],
+    "RATE": 0.2
+  },
+  "JawWormPlayDead": {
+    "FULL_TEXT": [
+      "It gets excited, and prepares to bite!",
+      "You stand up.\nIt looks sad..."
+    ],
+    "RATE": 0.04
+  },
+  "JawWormBiteA": {
+    "FULL_TEXT": [
+      "You bite the Jaw Worm.\nIt seems pleased..?"
+    ],
+    "RATE": 0.04
+  },
+  "JawWormBiteB": {
+    "FULL_TEXT": [
+      "You bite the Jaw Worm again.\nIs this a courtship ritual?"
+    ],
+    "RATE": 0.04
+  },
+  "JawWormBiteC": {
+    "FULL_TEXT": [
+      "You bite the Jaw Worm again.\nYour jaw is starting to hurt..."
+    ],
+    "RATE": 0.04
+  },
+  "LouseCurlUpRed": {
+    "FULL_TEXT": [
+      "You curl into a ball.\nYou feel that you are one with the Louse."
+    ],
+    "RATE": 0.04
+  },
+  "LouseCurlUpGreen": {
+    "FULL_TEXT": [
+      "You curl into a ball.\nYou feel that the Louse might understand you better."
+    ],
+    "RATE": 0.04
+  },
+  "LousePetRed": {
+    "FULL_TEXT": [
+      "You pet the Louse.\nIt doesn't seem to like it very much...",
+      "You stop before it gets annoyed."
+    ],
+    "RATE": 0.04
+  },
+  "LousePetGreen": {
+    "FULL_TEXT": [
+      "You pet the Louse.\nIt curls into your hand.",
+      "It looks to be experiencing pure bliss."
+    ],
+    "RATE": 0.04
+  },
+  "LouseConversationRed": {
+    "FULL_TEXT": [
+      "You engage in meaningful discourse.\nIt was very enlightening."
+    ],
+    "RATE": 0.04
+  },
+  "LouseConversationGreen": {
+    "FULL_TEXT": [
+      "You engage in meaningful discourse.\nIt was very enlightening.",
+      "You finish up the conversation by asking if you can use it as a pillow.",
+      "It seems to agree?"
+    ],
+    "RATE": 0.04
+  },
+  "LousePillowGreen": {
+    "FULL_TEXT": [
+      "You lay your head on the Louse.\nIt's even softer than you expected. You drift off...",
+      ". . .        \n. . .         \n. . .        ",
+      "You feel incredibly refreshed. So does the Louse?"
+    ],
+    "RATE": 0.04
+  },
+  "LousePillowRepeatGreen": {
+    "FULL_TEXT": [
+      "You lay your head on the Louse again.\nIt's comfortable, but you don't feel tired.",
+      "You thank the Louse politely, and get back up."
+    ],
+    "RATE": 0.04
+  }
+}

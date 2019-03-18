@@ -1,0 +1,11 @@
+{
+  "modid": "UnderSpire",
+  "name": "Undertale",
+  "author_list": ["null"],
+  "description": "null",
+  "version": "0.0.0",
+  "sts_version": "01-23-2019",
+  "mts_version": "3.6.3",
+  "dependencies": ["basemod","stslib"],
+  "update_json": ""
+}

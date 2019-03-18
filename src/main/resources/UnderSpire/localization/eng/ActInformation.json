@@ -1,0 +1,314 @@
+{
+  "JawWorm": {
+    "CHECK_INFO": "JAW WORM - ATK 12 DEF 6\nIt's like a dog, but that dog is also a shark.",
+    "ACT_OPTIONS": [
+      [
+        "Bite",
+        "Play Dead"
+      ]
+    ],
+    "STATE_OPTIONS": [
+      0,
+      0,
+      0
+    ],
+    "SPAREABLE_STATE": 1,
+    "ACT_TEXTS": [
+      [
+        "JawWormBiteA",
+        "JawWormPlayDead"
+      ],
+      [
+        "JawWormBiteB",
+        "JawWormPlayDead"
+      ],
+      [
+        "JawWormBiteC",
+        "JawWormPlayDead"
+      ]
+    ],
+    "STATE_CHANGES": [
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        2
+      ]
+    ],
+    "STATE_TEXTS": [
+      [
+        "Jaw Worm is salivating.",
+        "Jaw Worm looks like it wants to bite something."
+      ],
+      [
+        "There's a puddle of saliva.",
+        "Jaw Worm is biting the air excitedly.",
+        "Jaw Worm rolls over.\nIt takes a few tries to get back up."
+      ],
+      [
+        "There's a puddle of saliva.",
+        "Jaw Worm is biting the air excitedly.",
+        "Jaw Worm rolls over.\nIt takes a few tries to get back up."
+      ]
+    ]
+  },
+  "FuzzyLouseNormal": {
+    "CHECK_INFO": "RED LOUSE - ATK 7 DEF 9\nIt looks fuzzy enough to pet. But, it would probably bite.",
+    "ACT_OPTIONS": [
+      [
+        "Curl Up",
+        "Pet"
+      ],
+      [
+        "Converse",
+        "Pet"
+      ]
+    ],
+    "STATE_OPTIONS": [
+      0,
+      0
+    ],
+    "SPAREABLE_STATE": 1,
+    "ACT_TEXTS": [
+      [
+        "LouseCurlUpRed",
+        "LousePetRed"
+      ],
+      [
+        "LouseConversationRed",
+        "LousePetRed"
+      ]
+    ],
+    "STATE_CHANGES": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ]
+    ],
+    "STATE_TEXTS": [
+      [
+        "The Louse is shedding everywhere."
+      ],
+      [
+        "The Louse is stretching comfortably."
+      ]
+    ]
+  },
+  "FuzzyLouseDefensive": {
+    "CHECK_INFO": "GREEN LOUSE - ATK 6 DEF 10\nIt's very soft. It might let you use it as a pillow.",
+    "ACT_OPTIONS": [
+      [
+        "Curl Up",
+        "Pet"
+      ],
+      [
+        "Converse",
+        "Pet"
+      ],
+      [
+        "Nap",
+        "Pet"
+      ]
+    ],
+    "STATE_OPTIONS": [
+      0,
+      1,
+      2,
+      0,
+      1,
+      2,
+      2
+    ],
+    "SPAREABLE_STATE": 3,
+    "ACT_TEXTS": [
+      [
+        "LouseCurlUpGreen",
+        "LousePetGreen"
+      ],
+      [
+        "LouseConversationGreen",
+        "LousePetGreen"
+      ],
+      [
+        "LousePillowGreen",
+        "LousePetGreen"
+      ],
+      [
+        "LouseCurlUpGreen",
+        "LousePetGreen"
+      ],
+      [
+        "LouseConversationGreen",
+        "LousePetGreen"
+      ],
+      [
+        "LousePillowGreen",
+        "LousePetGreen"
+      ],
+      [
+        "LousePillowRepeatGreen",
+        "LousePetGreen"
+      ]
+    ],
+    "STATE_CHANGES": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "STATE_TEXTS": [
+      [
+        "The Louse is shedding everywhere."
+      ],
+      [
+        "The Louse is stretching comfortably."
+      ],
+      [
+        "The Louse is inviting you to use it as a pillow."
+      ],
+      [
+        "The Louse looks satisfied."
+      ],
+      [
+        "The Louse has reached understanding."
+      ],
+      [
+        "The Louse is inviting you to use it as a pillow."
+      ],
+      [
+        "The Louse is completely satisfied."
+      ]
+    ]
+  },
+  "SpikeSlime_S": {
+    "CHECK_INFO": "SPIKE SLIME - ATK 8 DEF 1\nIt's squishy, hard, and pointy.",
+    "ACT_OPTIONS": [
+      [
+        "Curl Up",
+        "Pet"
+      ]
+    ],
+    "STATE_OPTIONS": [
+      0
+    ],
+    "SPAREABLE_STATE": 1,
+    "ACT_TEXTS": [
+      [
+        "LouseCurlUpGreen",
+        "LousePetGreen"
+      ]
+    ],
+    "STATE_CHANGES": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "STATE_TEXTS": [
+      [
+        "The Louse is shedding everywhere."
+      ],
+      [
+        "The Louse is stretching comfortably."
+      ],
+      [
+        "The Louse is inviting you to use it as a pillow."
+      ],
+      [
+        "The Louse looks satisfied."
+      ],
+      [
+        "The Louse has reached understanding."
+      ],
+      [
+        "The Louse is inviting you to use it as a pillow."
+      ],
+      [
+        "The Louse is completely satisfied."
+      ]
+    ]
+  },
+  "SlimeBoss": {
+    "CHECK_INFO": "SLIME BOSS - ATK 35 DEF 12\nStereotypical: Curvaceously attractive, but no brains.",
+    "ACT_OPTIONS": [
+      [
+      ]
+    ],
+    "STATE_OPTIONS": [
+      0
+    ],
+    "SPAREABLE_STATE": 1,
+    "ACT_TEXTS": [
+      [
+      ]
+    ],
+    "STATE_CHANGES": [
+      [
+      ]
+    ],
+    "STATE_TEXTS": [
+      [
+        "The aroma of lime gelatin wafts through.",
+        "Slimy sounds abound."
+      ]
+    ]
+  }
+}

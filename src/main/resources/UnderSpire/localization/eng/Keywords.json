@@ -1,0 +1,63 @@
+[
+  {
+    "PROPER_NAME": "Shift",
+    "NAMES": [
+      "shift"
+    ],
+    "DESCRIPTION": "This card transforms upon #yShapeshifting."
+  },
+  {
+    "PROPER_NAME": "Shapeshifting",
+    "NAMES": [
+      "shapeshift",
+      "shapeshifted",
+      "shapeshifting"
+    ],
+    "DESCRIPTION": "Change forms, transforming all cards with #yShift."
+  },
+  {
+    "PROPER_NAME": "Blue Oni",
+    "NAMES": [
+      "blue oni",
+      "blue_oni"
+    ],
+    "DESCRIPTION": "#ySpell: Damage. Deals 10 [13] damage to the farthest right enemy."
+  },
+  {
+    "PROPER_NAME": "Red Oni",
+    "NAMES": [
+      "red oni",
+      "red_oni"
+    ],
+    "DESCRIPTION": "Deals 10 [13] damage to the farthest left enemy."
+  },
+  {
+    "PROPER_NAME": "Disoriented",
+    "NAMES": [
+      "disoriented"
+    ],
+    "DESCRIPTION": "Upon losing HP, loses #yStrength equal to HP lost until the end of the turn. NL Decreases by #b1 when used, and is halved rounding down at the end of the turn."
+  },
+  {
+    "PROPER_NAME": "Swift",
+    "NAMES": [
+      "swift"
+    ],
+    "DESCRIPTION": "Costs 0 if you have #yShapeshifted this turn."
+  },
+  {
+    "PROPER_NAME": "Hemorrhage",
+    "NAMES": [
+      "hemorrhage"
+    ],
+    "DESCRIPTION": "Upon attacking, loses HP."
+  },
+  {
+    "PROPER_NAME": "Spell",
+    "NAMES": [
+      "spell",
+      "spells"
+    ],
+    "DESCRIPTION": "The specified value scales with #yFocus, rather than #yStrength or #yDexterity."
+  }
+]
